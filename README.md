@@ -37,5 +37,5 @@ After fine-tuning, the model is saved and used for real-time recognition. The in
 
 ## Results
 
-![Confusion Matrix1](results/output1.png)
-![Detection](results/output2.png)
+![Confusion Matrix1](results/out1.png)
+![Detection](results/out2.png)
