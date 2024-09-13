@@ -36,6 +36,8 @@ To fine-tune the model on the FER-2013 dataset, we follow these steps:
 After fine-tuning, the model is saved and used for real-time recognition. The integration with OpenCV allows the system to capture webcam video, detect faces, and classify the emotion displayed by the face in real-time.
 
 ## Results
+As it's shown below the model fails to detect disgust which is to be expected mixing it up with anger.
+
 
 ![Confusion Matrix1](results/out1.png)
 ![Detection](results/out2.png)
