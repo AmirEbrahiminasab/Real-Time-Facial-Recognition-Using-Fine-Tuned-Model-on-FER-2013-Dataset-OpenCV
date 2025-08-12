@@ -41,8 +41,3 @@ As it's shown below the model fails to detect disgust which is to be expected mi
 
 ![Confusion Matrix1](results/out1.png)
 
-Here you can see some of the Real time Results:
-
-![Happy](results/Happy.png)
-![Sad](results/Sad.png)
-![Angry](results/Angry.png)
